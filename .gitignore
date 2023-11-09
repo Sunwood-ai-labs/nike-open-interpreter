@@ -133,3 +133,4 @@ venv.bak/
 !/workspace/output/.keep
 # conversation_histories/*
 .env
+.env
